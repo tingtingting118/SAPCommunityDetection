@@ -1,4 +1,4 @@
-# SAPCommunityDetection
+# SAPCommunity
 Analysis on the sub-network(10%) on SAP Community
 
 
